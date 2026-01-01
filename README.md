@@ -1,5 +1,19 @@
 # Pandas Exercises
 
+<div style="border: 2px solid #ccc; padding: 15px; background-color: #ffffff; color: #000000; border-radius: 5px;">
+
+_"This repository **does not belong to me**. I found this awesome repo while searching for learning and practice materials focused on the **Pandas** library for Python. All credit goes to the original author! 🎉._
+
+_The original repository can be found here: [pandas_exercises](https://github.com/guipsamora/pandas_exercises)_<br> 
+_A huge shoutout to **@guipsamora** for creating and sharing such amazing work! 👏✨_
+
+_I have been be using these notebooks to practise, and I will upload my own solutions if they differ from the ones already provided by the original author. These are purely my **personal solutions** and may not always be the most optimal or correct, but they reflect my learning process. Feel free to explore my solutions and perhaps get inspired to improve them or come up with your own!"_
+
+<p style="text-align: right; font-style: italic;">- Avirup </p>
+</div>
+<br>
+<br>
+
 Fed up with a ton of tutorials but no easy way to find exercises I decided to create a repo just with exercises to practice pandas.
 Don't get me wrong, tutorials are great resources, but to learn is to do. So unless you practice you won't learn.
 
