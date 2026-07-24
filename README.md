@@ -10,7 +10,7 @@ _A huge shoutout to **@guipsamora** for creating and sharing such amazing work! 
 _I am using these notebooks to practice and refine my data analysis skills. For every section, I share my personal solutions alongside the original author’s materials to document my learning process._
 
 
-### 📁 Repository Structure
+#### 📁 _Repository Structure_
 
 _Each chapter is divided into sections built around different datasets. Within each section, you will find three reference notebooks provided by the original author:_
 
@@ -21,9 +21,8 @@ _Each chapter is divided into sections built around different datasets. Within e
 _Additionally, I have been adding my own notebook in each section containing my approach, solutions, and comments. These are named using the following format:_
 * _**`{chapter_no}_{dataset_name}_Avirup.ipynb`** *(e.g., `01_Chipotle_Avirup.ipynb`)*_
 
----
 
-_💡 **A Note on My Solutions:** These are purely my **personal solutions** and may not always be the most optimal or correct, but they reflect my learning process. Feel free to explore my solutions and perhaps get inspired to improve them or come up with your own!"_
+_**A Note on My Solutions:** <br>These are purely my **personal solutions** and may not always be the most optimal or correct, but they reflect my learning process. Feel free to explore my solutions and perhaps get inspired to improve them or come up with your own!"_
 
 <p style="text-align: right; font-style: italic;">- Avirup </p>
 </div>
